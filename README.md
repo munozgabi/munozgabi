@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/munozgabi/munozgabi/output/snake.svg" alt="Snake animation" />
 
-###
